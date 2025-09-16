@@ -8,8 +8,9 @@
 ---
 
 ## ⚙️ Commands list's
-- ℹ️ **Serverinfo:** Show Server Information
-- 🧹 **purge:** cmd deletes the messages
+- ℹ️ **Serverinfo:** Show Server Information.
+- 🧹 **purge:** cmd deletes the messages.
+- 🖼️ **avatar:** showing Profile Photo.
 - 🔜 **Coimg Soon....** more commands
 
 ---
