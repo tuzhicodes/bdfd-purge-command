@@ -1,21 +1,9 @@
-# bdfd-purge-command
+# bdfd-purge-command# bdfd-purge-command
 
-यह प्रोजेक्ट BDFD (Bot Designer for Discord) के लिए purge कमांड को लागू करता है।
+This project implements the purge command for BDFD (Bot Designer for Discord).
 
-## उपयोग
+# ## Usage
 
-इस कमांड का उपयोग डिस्कॉर्ड चैनल से संदेशों को जल्दी से हटाने के लिए किया जाता है।
+This command is used to quickly delete messages from a Discord channel.
 
-## शुरुआत कैसे करें
-
-1. इस रिपॉजिटरी को क्लोन करें।
-2. आवश्यक dependencies इंस्टॉल करें।
-3. अपने बॉट में कमांड जोड़ें।
-
-## योगदान
-
-कृपया सुधार या नए features के लिए pull request भेजें।
-
-## लाइसेंस
-
-यह प्रोजेक्ट MIT लाइसेंस के अंतर्गत आता है।
+##
