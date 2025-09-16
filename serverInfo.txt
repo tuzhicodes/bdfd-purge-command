@@ -1,0 +1,37 @@
+➡️ server Information command for bdfd 
+
+---
+preifx: !serverinfo
+
+---
+
+code:
+$nomention
+$reply
+$botTyping
+
+$author[$displayName, Thanx For using this Bot]
+$authorIcon[$authorAvatar]
+$title[**$serverName[$guildID]**]
+$serverInfo[
+**Server Information :**
+> 🔖 **Name :** $serverName[$guildID]
+> 👑 **Owner :** `$username[$serverOwner[$guildID]]#$discriminator[$serverOwner]`
+> 🗃️ **ID :** $guildID
+> 🌐 **Region :** $serverRegion
+> ⏰ **Date :** $creationDate[$guildID]
+**Users on the server :**
+> 🏰 **Total :** $membersCount 
+> 🟢 **Online :** $membersCount[online] 
+> ⛔ **Do not disturb :** $membersCount[dnd]
+> 🌜 **Idle(s) :** $membersCount[idle] 
+**Roles/Chnls on the server :**
+> ⚔️ **Roles :** $roleCount
+> 📊 **Catagory :** $categoryCount
+> 🕹️ **Channels :** $channelCount
+**Emojis on the server :**
+> {emoji}]
+$footer[Powered by @tuzhicodes 🌿]
+$footerIcon[$serverIcon]
+$addTimestamp
+$color[#ff5bb2]
