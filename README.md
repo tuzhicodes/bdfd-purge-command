@@ -1,4 +1,4 @@
-<h1 align="center">🌿 TuZhi Codes - BDFD Purge Command 🧹</h1>
+<h1 align="center">🌿 TuZhi Codes - BDFD Commands Free 🌸</h1>
 
 <p align="center">
   A clean & professional <b>purge/clear command</b> for Discord bots made with 
