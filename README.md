@@ -1,7 +1,7 @@
 <h1 align="center">🌿 TuZhi Codes - BDFD Commands Free 🌸</h1>
 
 <p align="center">
-  A clean & professional <b>purge/clear command</b> for Discord bots made with 
+  A clean & professional <b>Advance/Command list's</b> for Discord bots Credit by @tuzhicodes made with 
   <a href="https://botdesignerdiscord.com/">Bot Designer for Discord (BDFD)</a>.
 </p>
 
