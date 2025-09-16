@@ -7,6 +7,13 @@
 
 ---
 
+## ⚙️ Commands list's
+- ℹ️ **Serverinfo:** Show Server Information
+- 🧹 **purge:** cmd deletes the messages
+- 🔜 **Coimg Soon....** more commands
+
+---
+
 ## ✨ Features
 - 🔒 **Admin Only** → Works only if the user has `ADMIN` permissions  
 - 🧹 **Bulk Delete** → Removes multiple messages in one go  
