@@ -38,5 +38,3 @@ $catch
 ⚠️ **| $displayName** This message is too old and cannot be deleted!
 $deleteIn[10s]
 $endtry
-
-$endif
