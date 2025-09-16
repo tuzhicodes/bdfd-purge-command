@@ -1,15 +1,22 @@
-# bdfd-purge-command# bdfd-purge-command
+# 🧹 BDFD Purge Command  
 
-This project implements the purge command for BDFD (Bot Designer for Discord).
+A clean & professional **purge/clear command** for Discord bots made with **[Bot Designer for Discord (BDFD)](https://botdesignerdiscord.com/)**.  
 
-# ## Usage
+This repository contains an easy-to-use purge command that lets admins quickly delete bulk messages while keeping your server clean and organized.  
 
-This command is used to quickly delete messages from a Discord channel.
+---
 
-##
+## ✨ Features
+- 🔒 **Admin Only** → Runs only if the user has `ADMIN` permissions  
+- 🧹 **Bulk Delete** → Removes multiple messages in one go  
+- ⚠️ **Error Handling** → Detects old messages that cannot be deleted  
+- ⏳ **Auto Cleanup** → Deletes bot’s response messages after 10 seconds  
+- 🛠️ **Beginner-Friendly** → Just copy-paste into BDFD and use  
 
+---
 
-
+## 📜 Usage
+In your Discord server, type:
 
 ➡️ This will delete the last **10 messages** from the channel.  
 
