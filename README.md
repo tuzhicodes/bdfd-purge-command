@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Top Banner -->
-  <img src="https://cdn.pfps.gg/banners/3601-rimuru.gif" width="100%" alt="Rimuru Banner"/>
+  <img src="https://cdn.discordapp.com/attachments/1409173582973763662/1417422657489604700/Screenshot_2025-09-16-13-40-34-56_572064f74bd5f9fa804b05334aa4f912.jpg?ex=68ca6d37&is=68c91bb7&hm=8f30eda903024909fc1fc18caadda911872cf08233f8134df10b3d7b0541b032&" width="100%" alt="Rimuru Banner"/>
 </p>
 
 <h1 align="center">🌿 TuZhi Codes - BDFD Purge Command 🧹</h1>
