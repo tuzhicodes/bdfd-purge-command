@@ -6,12 +6,14 @@
 </p>
 
 ---
+> [!TIP]
+> If you face any problem or error then you can join discord. 
 
 ## ⚙️ Commands list's
-- ℹ️ **Serverinfo:** Show Server Information.
-- 🧹 **purge:** cmd deletes the messages.
-- 🖼️ **avatar:** showing Profile Photo.
-- 🔜 **Coimg Soon....** more commands
+- [x] ℹ️ **Serverinfo:** Show Server Information.
+- [x] 🧹 **purge:** cmd deletes the messages.
+- [x] 🖼️ **avatar:** showing Profile Photo.
+- [ ] 🔜 **Coimg Soon....** more commands
 
 ---
 
