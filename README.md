@@ -23,6 +23,8 @@
 - 🛠️ **Beginner-Friendly** → Just copy-paste into BDFD and use  
 
 ---
+> [!IMPORTANT]
+> Subscribe to tuzhicodes on YouTube and follow here and definitely star it .
 
 ## 📜 Usage
 In your Discord server, type:
