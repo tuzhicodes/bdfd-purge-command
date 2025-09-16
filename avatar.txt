@@ -1,0 +1,29 @@
+➡️ Show Avatar cmd use be like !avatar @user
+
+---
+
+prefix: !avatar
+
+---
+
+code:
+$nomention
+$changeCooldownTime[Days;Hours;Mins;Secs]
+$globalCooldown[5s; **🚫 |** UwU **$displayName**! You need to wait **%time-m%** then try again !!]
+
+$reply
+$if[$mentioned[1]==$botID]
+$description[]
+$else
+$description[]
+$endif
+$authorIcon[$userAvatar[$mentioned[1;yes]]]
+$author[$username[$mentioned[1;yes]]#$discriminator[] | TuZhi Codes]
+$image[$userAvatar[$mentioned[1;yes]]?size=4096]
+$footer[Powerd by @tuzhicodes]
+$footerIcon[$authorAvatar]
+$addTimestamp
+$title[**'AVATAR'**]
+$embeddedURL[$userAvatar[$mentioned[1;yes]]]
+$color[#ff5bb2]
+$addButton[yes;$userAvatar[$mentioned[1;yes]]?size=4096;Download Avatar;link;no;➡️ ]
